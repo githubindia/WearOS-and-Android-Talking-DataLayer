@@ -11,4 +11,4 @@ But there’s no such thing as the perfect gadget, and no-one’s raving about t
 
 ``` Install Wear app on WearOS and mobile app on Android phone```
 
-```Connect your watch and phone and voila! You can send message to WearOs by just pressing a button from an app itself.```
+```Connect your WearOS with phone and voila! You can send message to WearOs by just pressing a button from an app itself.```
